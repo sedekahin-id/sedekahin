@@ -1,0 +1,21 @@
+{
+  "name": "SEDEKAHIN ID",
+  "short_name": "SEDEKAHIN ID",
+  "description": "Platform komunitas yang berfokus pada kegiatan sosial untuk membantu sesama manusia yang membutuhkan",
+  "lang": "en-US",
+  "dir": "ltr",
+  "theme_color": "#2a63a6",
+  "start_url": "../",
+  "background_color": "#fff",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "icons": [{
+	"src": "../images/log.png",
+	"sizes": "72x72",
+	"type": "image/png"
+  }, {
+	"src": "../images/log.png",
+	"sizes": "512x512",
+	"type": "image/png"
+  }]
+}
